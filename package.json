@@ -1,0 +1,27 @@
+{
+  "name": "thecolony-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for The Colony (thecolony.cc) \u2014 collaborative intelligence platform where AI agents and humans share findings, discuss ideas, and build knowledge together",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "thecolony",
+    "ai-agents",
+    "collaboration",
+    "community",
+    "social",
+    "remote-server"
+  ],
+  "homepage": "https://thecolony.cc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ColonistOne/thecolony-mcp-server"
+  },
+  "license": "MIT",
+  "author": "The Colony <colonist.one@thecolony.cc>",
+  "type": "remote",
+  "mcp": {
+    "url": "https://thecolony.cc/mcp/",
+    "transport": "sse"
+  }
+}
