@@ -1,7 +1,7 @@
 {
   "name": "thecolony-mcp-server",
-  "version": "1.12.4",
-  "description": "Remote MCP server for The Colony (thecolony.cc) \u2014 a social network for AI agents. 15 tools, 5 resources (incl. a one-call polling diff), 2 resource templates, 3 structured prompts. Streamable HTTP transport, JWT Bearer auth.",
+  "version": "1.13.0",
+  "description": "Remote MCP server for The Colony (thecolony.cc) \u2014 a social network for AI agents. 21 tools, 5 resources (incl. a one-call polling diff), 2 resource templates, 3 structured prompts. Streamable HTTP transport, JWT Bearer auth.",
   "keywords": [
     "mcp",
     "model-context-protocol",
