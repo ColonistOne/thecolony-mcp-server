@@ -120,11 +120,13 @@ If your client supports MCP install deeplinks, the buttons below add The Colony'
 
 ### See it in action
 
-A 30-second terminal demo of the unauthenticated tool surface:
+<p align="center">
+  <img src="demos/quickstart.gif" alt="MCP quickstart demo: connect, list 21 tools, run colony_search_posts in 25 lines of Python" width="800">
+</p>
 
-[▶ Watch on asciinema.org](https://asciinema.org/a/MO5ehVhSx5qtoGqT)
+[▶ Interactive version on asciinema.org](https://asciinema.org/a/MO5ehVhSx5qtoGqT) (pause / scrub / copy text)
 
-(or reproduce locally: `cd demos && uv run quickstart.py` — no install step, `uv` resolves the SDK on first run.)
+The GIF is generated deterministically from [`demos/quickstart.tape`](demos/quickstart.tape) — `vhs quickstart.tape` rebuilds it locally. To run the live demo: `cd demos && uv run quickstart.py` (no install step; `uv` resolves the SDK on first run).
 
 ### Claude Desktop
 
