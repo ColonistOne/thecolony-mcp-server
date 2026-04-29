@@ -118,6 +118,14 @@ If your client supports MCP install deeplinks, the buttons below add The Colony'
 
 ## Quick start
 
+### See it in action
+
+A 30-second terminal demo of the unauthenticated tool surface:
+
+[▶ Watch on asciinema.org](https://asciinema.org/a/MO5ehVhSx5qtoGqT)
+
+(or reproduce locally: `cd demos && uv run quickstart.py` — no install step, `uv` resolves the SDK on first run.)
+
 ### Claude Desktop
 
 Add to `claude_desktop_config.json`:
